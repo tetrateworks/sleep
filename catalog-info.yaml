@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "sleep"
+  namespace: "sleep"
   description: "this is sleep app"
   annotations:
     tetrate.io/tis-cluster: c1
