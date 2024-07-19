@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "sleep"
-  description: "sleep"
+  description: "this is sleep app"
   annotations:
     tetrate.io/tis-cluster: c1
     argocd/app-name: sleep
