@@ -4,7 +4,7 @@ metadata:
   name: "sleep"
   description: "sleep"
   annotations:
-    backstage.io/techdocs-ref: dir:.
+    tetrate.io/tis-cluster: c1
     argocd/app-name: sleep
 spec:
   type: website
